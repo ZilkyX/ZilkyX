@@ -7,7 +7,7 @@ I enjoy building projects that **solve real-world problems** using both hardware
 ---
 
 ## Currently Learning
-Advanced Web Dev • Embedded Systems & IoT • PCB Circuit Design
+Advanced Web Dev • Embedded Systems & IoT 
 
 ---
 
