@@ -35,6 +35,7 @@ Advanced Web Dev • Embedded Systems & IoT • PCB Circuit Design
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white) 
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-FF77AA?logo=tailwind-css&logoColor=white) 
 ![ShadCN](https://img.shields.io/badge/ShadCN-00BFFF?logo=tailwind-css&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
 
 
 ---
