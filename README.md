@@ -1,6 +1,6 @@
 #  Hi, I'm Zilyan Kyle Lorenzo (ZilkyX)
 
-**Graduate Computer Engineering Student at Pampanga State University**  
+**Computer Engineering Graduate at Pampanga State University**  
 Passionate about **IoT, Robotics, Embedded Systems, and Web & App Development**.  
 I enjoy building projects that **solve real-world problems** using both hardware and software.
 
